@@ -33,9 +33,18 @@ Update book details
 Delete a book
 Exit the system
 
+#Challenges Faced:
+1.User Input Issues: If users entered wrong data, the program could crash.Added try-catch to fix this.
+
+2.No Data Storage: Books are lost when the program closes.
+
+#Future Improvements:
+1. Save Data: Store books in a file or database so they are not lost.
+2. Better UI: Add a graphical interface (GUI) for easy use.
+3. More Error Handling: Prevent crashes and give clear error messages.
+
 #Conclusion
 The Library System is a simple Java program to add, view, search, update, and delete books. It uses try-catch to handle errors, making it easy to use without crashes.
-
 1.Easy to Use – Simple menu for managing books.
 2.Error Handling – Prevents wrong inputs using try-catch.
 3.Fast & Efficient – Uses lists and search functions for quick access.
