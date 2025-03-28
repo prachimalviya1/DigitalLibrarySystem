@@ -1,8 +1,8 @@
 # DigitalLibrarySystem
-#Overview
+#Overview-
 The Digital Library Book Management System is a simple Java-based console application designed to help librarians efficiently manage book records. The system enables users to add, view, search, update, and delete books from a catalog while maintaining their availability status.
 
- #Features
+ #Features-
 📌 1. Add a Book
 The user enters Book ID, Title, Author, Genre, and Availability Status.
 The book is then stored in an ArrayList<Book>.
@@ -18,13 +18,13 @@ Removes a book from the catalog using Book ID.
 📌 6. Exit System
 Closes the program safely.
 
-#How to Run the Project
+#How to Run the Project-
 1.Compile the Java Program
 javac LibrarySystem.java
 2. Run the Program
 java LibrarySystem
 
-#Follow the On-Screen Instructions
+#Follow the On-Screen Instructions-
 Upon running, a menu will be displayed allowing users to:
 Add new books
 View all books
@@ -43,7 +43,7 @@ Exit the system
 2. Better UI: Add a graphical interface (GUI) for easy use.
 3. More Error Handling: Prevent crashes and give clear error messages.
 
-#Conclusion
+#Conclusion-
 The Library System is a simple Java program to add, view, search, update, and delete books. It uses try-catch to handle errors, making it easy to use without crashes.
 1.Easy to Use – Simple menu for managing books.
 2.Error Handling – Prevents wrong inputs using try-catch.
